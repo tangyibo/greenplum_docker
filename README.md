@@ -4,6 +4,12 @@
 
 本项目基于dockerfile制作Greenplum6 数据库单节点的集群docker镜像。
 
+托管地址：
+
+- Github: https://github.com/tangyibo/greenplum_docker
+
+- Gitee: https://gitee.com/inrgihc/greenplum_docker
+
 ## 二、教程
 
 ### 1、镜像制作
